@@ -1,0 +1,35 @@
+class Program
+    {
+        public static Stack<int> CopyS(Stack<int> S)
+        {
+            Stack<int> sol = new Stack<int>();
+            Stack<int> temp = new Stack<int>();
+            while (!S.IsEmpty())
+            {
+                temp.Push(S.Pop());
+            }
+            while (!temp.IsEmpty())
+            {
+                S.Push(temp.Top());
+                sol.Push(temp.Pop());
+            }
+            return sol;
+        }
+        public static Stack<int> ReverseS(Stack<int> S)
+        {
+            Stack<int> Temp = CopyS(S);
+            Stack<int> Sol = new Stack<int>();
+            while (!Temp.IsEmpty())
+            {
+                Sol.Push()
+            }
+        }
+        public static bool IsSame(int Num, Stack<int> S)
+        { 
+        Stack
+        }
+        static void Main(string[] args)
+        {
+
+        }
+    }

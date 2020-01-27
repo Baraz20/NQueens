@@ -1,0 +1,8 @@
+C:\Users\Talmid\AppData\Local\Temporary Projects\תרגיל בגרות תשעח\bin\Release\תרגיל בגרות תשעח.exe
+C:\Users\Talmid\AppData\Local\Temporary Projects\תרגיל בגרות תשעח\bin\Release\תרגיל בגרות תשעח.pdb
+C:\Users\Talmid\AppData\Local\Temporary Projects\תרגיל בגרות תשעח\obj\x86\Release\תרגיל בגרות תשעח.exe
+C:\Users\Talmid\AppData\Local\Temporary Projects\תרגיל בגרות תשעח\obj\x86\Release\תרגיל בגרות תשעח.pdb
+E:\C#\דוד עבודה\תרגיל בגרות תשעח\תרגיל בגרות תשעח\bin\Release\תרגיל בגרות תשעח.exe
+E:\C#\דוד עבודה\תרגיל בגרות תשעח\תרגיל בגרות תשעח\bin\Release\תרגיל בגרות תשעח.pdb
+E:\C#\דוד עבודה\תרגיל בגרות תשעח\תרגיל בגרות תשעח\obj\x86\Release\תרגיל בגרות תשעח.exe
+E:\C#\דוד עבודה\תרגיל בגרות תשעח\תרגיל בגרות תשעח\obj\x86\Release\תרגיל בגרות תשעח.pdb

@@ -1,0 +1,13 @@
+C:\Users\Talmid\AppData\Local\Temporary Projects\תרגיל 5\bin\Release\תרגיל 5.exe
+C:\Users\Talmid\AppData\Local\Temporary Projects\תרגיל 5\bin\Release\תרגיל 5.pdb
+C:\Users\Talmid\AppData\Local\Temporary Projects\תרגיל 5\obj\x86\Release\תרגיל 5.exe
+C:\Users\Talmid\AppData\Local\Temporary Projects\תרגיל 5\obj\x86\Release\תרגיל 5.pdb
+C:\Users\Talmid\Desktop\עמוד 121\תרגיל 5\תרגיל 5\obj\x86\Release\תרגיל 5.exe
+C:\Users\Talmid\Desktop\עמוד 121\תרגיל 5\תרגיל 5\obj\x86\Release\תרגיל 5.pdb
+C:\Users\Talmid\Desktop\עמוד 121\תרגיל 5\תרגיל 5\bin\Release\תרגיל 5.exe
+C:\Users\Talmid\Desktop\עמוד 121\תרגיל 5\תרגיל 5\bin\Release\תרגיל 5.pdb
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד 121\תרגיל 5\תרגיל 5\obj\x86\Release\תרגיל 5.exe
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד 121\תרגיל 5\תרגיל 5\obj\x86\Release\תרגיל 5.pdb
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד 121\תרגיל 5\תרגיל 5\bin\Release\תרגיל 5.exe
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד 121\תרגיל 5\תרגיל 5\bin\Release\תרגיל 5.pdb
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד 121\תרגיל 5\תרגיל 5\obj\x86\Release\תרגיל 5.csprojResolveAssemblyReference.cache

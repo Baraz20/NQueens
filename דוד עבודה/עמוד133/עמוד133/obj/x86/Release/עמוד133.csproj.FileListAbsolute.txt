@@ -1,0 +1,5 @@
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד133\עמוד133\bin\Release\עמוד133.exe
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד133\עמוד133\bin\Release\עמוד133.pdb
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד133\עמוד133\obj\x86\Release\עמוד133.exe
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד133\עמוד133\obj\x86\Release\עמוד133.pdb
+C:\Users\Talmid\Desktop\דוד עבודה\עמוד133\עמוד133\obj\x86\Release\עמוד133.csprojResolveAssemblyReference.cache
